@@ -1,0 +1,50 @@
+Nama: Rahma Meidila
+Kelas: 5 MIP
+NIM: 062040832823
+Tugas 1
+1. Apa itu Git dan kegunaanya
+2. Apa itu Github dan kegunaanya
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut
+4. Sebutkan layanan selain github
+Jawab
+1. Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
+Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
+Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
+Tujuan penggunaan GIT yakni untuk mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti. 
+
+2. Github adalah Github adalah platform atau layanan web host yang memungkinkan tim developer untuk bekerja bersama secara online. 
+Maksudnya bagaimana? Jadi, melalui Github, developer tidak hanya bisa menyimpan dan mengelola kode, 
+tapi juga dapat mengajak timnya mengecek kode di waktu dan satu tempat yang sama.
+GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu. 
+Ini memungkinkan pengguna untuk berkolaborasi dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang. 
+Di dalam GitHub pengguna juga bisa mengubah, mengadaptasi, dan meningkatkan perangkat lunak dari repositori publiknya secara gratis. 
+Namun, GitHub mengenakan biaya untuk repositori pribadi, menawarkan berbagai paket berbayar. 
+Setiap repositori publik atau pribadi berisi semua file proyek, riwayat revisi setiap file. Repositori memiliki banyak kolaborator publik atau pribadi. 
+
+3. Istilah yang ada;
+Bagi pengguna GitHub pemula, akan lebih jika Anda mengetahui terlebih dahulu istilah-istilah yang ada di platform tersebut sebelum menggunakannya. 
+Dikutip dari situs Dev, berikut beberapa diantaranya :
+1. Repository (Repo) Istilah Repository memiliki arti sebagai direktori penyimpanan. 
+Fungsinya adalah menyimpan semua file dan folder yang digunakan pengguna untuk membangun sebuah proyek dan menyimpan perubahannya (Jika ada). 
+2. Local and Remote Istilah tersebut merupakan jenis repo independen yang dimiliki pada proyek Anda. 
+Repo offline disebut Local, sedangkan repo yang online adalah Remote.
+3. Branch Ruang kerja yang memungkinkan adanya perubahan tanpa mengacaukan kode utama proyek yang dibuat.
+4. Commit Istilh Commit merujuk pada perubahan yang pengguna lakukan ke proyek tersebut. 
+Bisa berupa penambahan, penghapusan, hingga modifikasi kode atau file dalam proyek terkait. 
+5. Pull Request Pull Request adalah permohonan agar perubahan yang Anda buat bisa disertakan ke dalam kode utama proyek. 
+6. Markdown Selain beberapa istilah umum di atas, ada juga istilah seperti Markdown. 
+Istilah tersebut pengubahan teks biasa menjadi kode GitHub. 
+Sebagai contoh bisa dilihat dari platform seperti Atom dan Sublime Text yang menggunakannya.
+7. Issues Issues merupakan istilah yang memungkinkan pengguna untuk melakukan perbaikan konten. 
+Dalam hal ini, pengguna juga bisa melacak jenis perubahan di proyeknya dari awal hingga akhir. 
+8. Federalist Platform pendukung untuk menyebarkan proyek dari repositori GitHub. Pada keunggulannya, 
+hal ini memungkinkan pengguna bisa melihat feedback berupa perubahan yang disarankan dan dipublikasikan.
+
+4. Layanan selain Github;
+a. Bitbucket
+b. SourceForge
+c. GitLab
+d. Kiln
+e. Codeplane
+f. CodePlex
+g.  Pohon Kacang
